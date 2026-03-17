@@ -1,0 +1,9 @@
+package com.prajyot.domain;
+
+public enum PaymentStatus
+{
+    PENDING,
+    PROCESSING,
+    COMPLETED,
+    FAILED
+}
